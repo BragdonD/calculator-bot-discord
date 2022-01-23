@@ -2,9 +2,9 @@
   "name": "c-transcripteur",
   "version": "1.0.0",
   "description": "a discord bot who can transcript C into javascript and execute it into a saloon or thread",
-  "main": "index.mjs",
+  "main": "src/index.mjs",
   "scripts": {
-    "dev": "nodemon index.mjs"
+    "dev": "nodemon src/index.mjs"
   },
   "author": "",
   "license": "ISC",
