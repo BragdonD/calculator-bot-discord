@@ -1,0 +1,16 @@
+{
+  "name": "c-transcripteur",
+  "version": "1.0.0",
+  "description": "a discord bot who can transcript C into javascript and execute it into a saloon or thread",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "nodemon index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
