@@ -10,7 +10,7 @@ const RemoveSpace = (str) => {
 const NumberRegex = /([0-9]+)/g;
 const FunctionRegex = /(\bsin|cos|acos|asin|tan|atan|int\b)/g;
 const OperatorsRegex =/([-*+\/^])/g
-const MathsOperationRegex = /(([-*+\/()^])|(\bsin|cos|acos|asin|int\b)|([0-9]+))/g;
+const MathsOperationRegex = /(([-*+\/()^])|(\sin|cos|acos|asin|tan|atan|int\b)|([0-9]+))/g;
 
 /**
  * 
