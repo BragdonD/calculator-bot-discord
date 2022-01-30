@@ -1,6 +1,6 @@
 # calculator-bot-discord
 
-This project allows you to have your own bot which can solve maths calculs.
+This project allows you to have your own discord bot which can solve maths calculs.
 
 ## How to use it
 
