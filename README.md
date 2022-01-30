@@ -2,6 +2,10 @@
 
 This project allows you to have your own discord bot which can solve maths calculs.
 
+## Dependancies 
+
+- Discord.js v3
+
 ## How to use it
 
 To use this project you will need to add an .env file with your bot Token. If you don't want to modify the code, just use the name : `CLIENT_TOKEN`.
@@ -11,7 +15,7 @@ Then you will need to add the bot to your server. etc... (all the discord stuff 
 
 To call the bot you have the `!=` command. The bot will then calcul the line of calcul and send back a embed message with the calcul as input and the result as output. After calling the command you need to write the infix expressions to evaluate.
 
-## Function 
+## Functions
 
 There are multiple functions that are taken in charge :
 
